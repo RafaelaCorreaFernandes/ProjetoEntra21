@@ -53,7 +53,7 @@ section {
  
 .conteudo {
     display: flex;
-    align-items: justify;
+    align-items: center;
     gap: 10px;
 }
  
@@ -76,7 +76,7 @@ p {
 
 .conteudo2 {
     display: flex;
-    align-items: justify; /* alinha verticalmente */
+    align-items: center; /* alinha verticalmente */
     gap: 20px; /* espaço entre imagem e texto */
 }
 
@@ -121,6 +121,26 @@ header {
 .faixa-topo p {
   margin: 10px 0 0 0;
 }
-  
+
+.logo-titulo {
+    display: flex;
+    align-items: center;
+    
+}
+
+
+
+.titulo {
+  display: inline-block;
+  align-items: center; /* alinha verticalmente */
+  justify-content: center; /* centraliza na tela */
+  gap: 10px; /* espaço entre imagem e texto */
+}
+
+.logo {
+  width: 70px; /* ajusta o tamanho */
+  height: auto;
+
+}
  
  

@@ -59,6 +59,8 @@ section {
  
 .conteudo img {
     width: 20%;
+    border-radius: 50%;
+    object-fit: cover;
 }
  
 .conteudo p {
@@ -81,6 +83,8 @@ p {
 .conteudo2 img {
     width: 20%; /* ajuste o tamanho da imagem/ */
     height: auto;
+    border-radius: 50%;
+    object-fit: cover;
 }
  
 .topo {

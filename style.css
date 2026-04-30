@@ -110,7 +110,6 @@ header {
   background-color: rgb(255, 255, 255);
   padding: 0;
   text-align: center;
-  border-radius: 10px; /* opcional, deixa arredondado */
   width: 100%;
   margin: 0; /* centraliza */
 }
